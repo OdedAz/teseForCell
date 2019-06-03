@@ -1,0 +1,80 @@
+/* FONT TYPES */
+
+
+/* GLOBAL */
+*{margin:0;padding:0;}
+body{direction:ltr;font-family:AlmoniBold, Arial sans-serif !important;font-size:17px !important;background-color: lightgray !important;line-height:1.6em !important;}
+h1,h2,h3,h4,h5,h6{color:black !important; font-family:AlmoniBold, Arial, sans-serif !important;text-align:center;}
+
+#table-content{
+    margin:0 2% 0 2%;
+}
+.section-2{
+    min-height: 90%;
+}
+
+@media only screen 
+and (min-device-width : 320px) 
+and (max-device-width : 520px) {
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen 
+and (min-width : 700px) {
+/* Styles */
+
+}
+
+@media only screen 
+and (max-width : 360px) {
+/* Styles */
+}
+
+/* Smartphones (portrait) ----------- */
+@media only screen 
+and (max-width : 320px) {
+/* Styles */
+}
+
+/* iPads (portrait and landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 900px) {
+/* Styles */
+
+}
+
+/* iPads (landscape) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : landscape) {
+/* Styles */
+}
+
+/* iPads (portrait) ----------- */
+@media only screen 
+and (min-device-width : 768px) 
+and (max-device-width : 1024px) 
+and (orientation : portrait) {
+/* Styles */
+}
+
+/* Desktops and laptops ----------- 
+@media only screen 
+and (min-width : 1224px) {
+/* Styles 
+}*/
+
+/* Large screens ----------- 
+@media only screen 
+and (min-width : 1824px) {
+/* Styles 
+}
+
+ iPhone 4 ----------- 
+@media
+only screen and (-webkit-min-device-pixel-ratio : 1.5),
+only screen and (min-device-pixel-ratio : 1.5) {
+/* Styles 
+}*/
